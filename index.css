@@ -1,0 +1,54 @@
+.div1{
+	padding: 80px;
+	padding-left:  200px;
+	
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	background-image: url("bg3.jpg");
+	background-size:cover;
+
+
+}
+span{
+     color: #0099ff;
+
+}
+i{
+margin-left: 30px;
+}
+#b:hover{
+	color: red;
+}
+li{
+	display: inline;
+	font-size: 25px;
+	padding: 10px;
+}
+li:hover{
+	background-color: blue;
+
+   }
+ul{
+	position: relative;
+	float: right;
+	bottom:  80px;
+
+}
+
+#icon:hover{
+	background-color: blue;
+}
+#icon1:hover{
+	background-color: black;
+}
+#icon2:hover{
+	background-color: yellow;
+}
+#icon3:hover{
+	background-color: blue;
+}
+#icon4:hover{
+	background-color: #F75200;
+}

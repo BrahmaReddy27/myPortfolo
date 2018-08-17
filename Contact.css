@@ -1,0 +1,23 @@
+.con{
+	background-image: url("contact1.jpg");
+	width: 800px;
+	height: 400px;
+	position: relative;
+	left: 200px;
+	top: 150px;
+
+}
+.mail1:hover{
+	background-color: white;
+	
+
+}
+
+.mail2:hover{
+	background-color: white;
+	
+
+}
+.mail:hover{
+    background-color: green;
+}
